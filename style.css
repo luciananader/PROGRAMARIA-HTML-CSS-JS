@@ -20,7 +20,7 @@ header{
 
 section{
     display: block;
-    margin: auto;
+    margin: 0 auto;
     max-width: 1024 px;
     width: 100%;
 }
@@ -51,7 +51,7 @@ div>details{
     cursor: pointer;
 }
 
-div>summary{
+details>summary{
     font-size: 18px;
     padding: 10px;
 }
