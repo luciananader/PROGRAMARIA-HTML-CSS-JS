@@ -11,7 +11,7 @@ header{
     background-color: rgba(0, 128, 0, 0.521);
     color: white;
     box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.425);
-    width: 90%;
+    width: 100%;
     height: 120px;
     padding: 20px;
     text-align: center;
@@ -21,7 +21,6 @@ header{
 section{
     display: block;
     margin: auto;
-    max-width: 1024 px;
     width: 100%;
 }
 
@@ -30,10 +29,9 @@ div{
     margin: 30px;
     max-height: 100%;
     border: 1px solid rgba(0, 128, 0, 0.521);
-    margin-left: 80px;
     vertical-align: top;
     box-shadow: 0.5px 0.5px 1.5px rgba(0, 0, 0, 0.37);
-    
+     
 }
 
 div>img{
