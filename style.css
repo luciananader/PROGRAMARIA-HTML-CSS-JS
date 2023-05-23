@@ -60,6 +60,9 @@ div>details>blockquote{
     color: #777;
     font-style: italic;
     margin-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+  
 }
 
 footer{
