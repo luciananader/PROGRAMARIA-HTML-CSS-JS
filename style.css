@@ -5,6 +5,10 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+html, body{
+    overflow-x: hidden;
+}
+
 header{
     display: block;
     margin: auto;
@@ -20,8 +24,9 @@ header{
 
 section{
     display: block;
-    margin: auto;
     width: 100%;
+    text-align: center;
+    
 }
 
 div{
@@ -31,7 +36,7 @@ div{
     border: 1px solid rgba(0, 128, 0, 0.521);
     vertical-align: top;
     box-shadow: 0.5px 0.5px 1.5px rgba(0, 0, 0, 0.37);
-     
+   
 }
 
 div>img{
